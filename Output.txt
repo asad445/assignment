@@ -1,0 +1,27 @@
+Total Tweets Fetched : 100
+------------Retrieving top five retweets ------------
+
+Tweet No: 362116600540839936 has been retweeted :155 times.
+Tweet No: 362118880283471872 has been retweeted :41 times.
+Tweet No: 362118092802883584 has been retweeted :15 times.
+Tweet No: 362119450192904192 has been retweeted :14 times.
+Tweet No: 362119379120427010 has been retweeted :14 times.
+------------End of Retrieving top five retweets ------------
+
+------------Retrieving top five user mentioned ------------
+
+User ID: 1417810602 has been mentioned 5 times
+User ID: 229741584 has been mentioned 4 times
+User ID: 566896464 has been mentioned 4 times
+User ID: 594297762 has been mentioned 3 times
+User ID: 441275153 has been mentioned 3 times
+------------ End of Retrieving top five user mentioned ------------
+
+------------Retrieving tweet source info ------------
+
+Twitter for iPhone has been the source for 49 tweetes
+Twitter for Android has been the source for 26 tweetes
+Ask.fm has been the source for 5 tweetes
+web has been the source for 4 tweetes
+TweetDeck has been the source for 3 tweetes
+------------End of Retrieving tweet source info ------------
